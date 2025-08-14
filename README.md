@@ -6,6 +6,10 @@ Empty the sas clipbrd macro
 
     Empty the sas clipbrd macro utl emptyclipbrd
 
+    github
+    https://tinyurl.com/2bc6chpz
+    https://github.com/rogerjdeangelis/utl-empty-the-sas-clipbrd-macro-utl-emptyclipbrd
+
     CONTENTS
       1 SAS DOSUBL EMPTY CLIPBRD
       2 utl_emptyclipbrd macro
